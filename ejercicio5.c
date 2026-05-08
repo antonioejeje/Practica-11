@@ -12,5 +12,5 @@ int main(int argc, char** argv)
  for (int cont = 0 ; cont < argc ; cont++ ){
  printf("argv[%d] = %s\n", cont, argv[cont]);
  }
-
+}
  
